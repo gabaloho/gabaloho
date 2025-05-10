@@ -10,9 +10,9 @@ Welcome to my GitHub profile! 🚀
 - ⚡ **Fun Fact**: I believe every bug has a story to tell!
 
 ## Skills & Tools
-- **Languages**: [Add your favorite programming languages like Python, JavaScript, etc.]
-- **Frameworks**: [Add the frameworks you are proficient with like React, Django, etc.]
-- **Tools**: [Add tools you frequently use like Git, Docker, etc.]
+- **Languages**: Java, C#, Python
+- **Frameworks**: Android, .NET Core, .NET Maui, Blazor, Maui Hybrid Blazor
+- **Tools**: Git, Docker, Kubernetes, EF core , Azure
 
 ## My GitHub Stats 📊
 
