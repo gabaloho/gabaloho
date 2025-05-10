@@ -1,12 +1,30 @@
-- 👋 Hi, I’m @gabaloho  
-- 👀 I’m interested in softtware engineering, information security and  digital forensics  
-- 🌱 I’m currently learning cybersecurity and honing my skills in Linux server configuration, digital forensics, and CLI basics.  
-- 💞️ I’m looking to collaborate on cybersecurity projects, especially those related to information retrieval, incident response, and secure network design.  
-- 📫 How to reach me: Via LinkedIn or email (country code: 0032 for Belgium).  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I’m launching Gue Cyber Labs in 2025 and have a background in NLP, which I creatively integrate into cybersecurity!  
+# Hi there 👋, I'm Gabaloho!
 
-<!---
-gabaloho/gabaloho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! 🚀
+
+## About Me
+
+- 🌱 **Currently Learning**: Always on the lookout for the latest tech trends and tools to improve my skills.
+- 💻 **Technologies I Love**: Coding, building projects, and solving problems.
+- 🎯 **Goal**: To contribute to open-source projects and collaborate with like-minded developers.
+- ⚡ **Fun Fact**: I believe every bug has a story to tell!
+
+## Skills & Tools
+- **Languages**: [Add your favorite programming languages like Python, JavaScript, etc.]
+- **Frameworks**: [Add the frameworks you are proficient with like React, Django, etc.]
+- **Tools**: [Add tools you frequently use like Git, Docker, etc.]
+
+## My GitHub Stats 📊
+
+![Gabaloho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabaloho&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabaloho&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Connect With Me 🌐
+- [LinkedIn](#)
+- [Twitter](#)
+- [Email](mailto:#)
+
+---
+
+💡 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
