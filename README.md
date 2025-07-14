@@ -1,6 +1,12 @@
-# Hi there 👋, I'm Gabaloho!
+# 👋 Hi, I'm Gabriel Aloho
 
 Welcome to my GitHub profile! 🚀
+
+I'm passionate about **Software Development, Information Security, and Digital Forensics**. Currently, I work at Herbavita and am based in Belgium. I enjoy building robust software solutions and exploring the intersection of security and technology.
+
+- 💻 I actively contribute to a range of public repositories (17+), showcasing projects in development, security, and digital forensics.
+- 🌱 I continuously learn and will start to share knowledge through my [blog](https://gabrielaloho.com) soon.
+- 🤝 Let's connect! Feel free to reach out via [email](mailto:alohogabriel@gmail.com).
 
 ## About Me
 
