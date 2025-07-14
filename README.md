@@ -4,15 +4,15 @@ Welcome to my GitHub profile! 🚀
 
 ## About Me
 
-- 🌱 **Currently Learning**: Always on the lookout for the latest tech trends and tools to improve my skills.
+- 🌱 **Currently Wroking**: Fullstack software developer.
 - 💻 **Technologies I Love**: Coding, building projects, and solving problems.
 - 🎯 **Goal**: To contribute to open-source projects and collaborate with like-minded developers.
 - ⚡ **Fun Fact**: I believe every bug has a story to tell!
 
 ## Skills & Tools
-- **Languages**: Java, C#, Python
+- **Languages**: C#, Python, Java,
 - **Frameworks**: Android, .NET Core, .NET Maui, Blazor, Maui Hybrid Blazor
-- **Tools**: Git, Docker, Kubernetes, EF core , Azure
+- **Tools**: Git, Docker, Kubernetes, EF core , Azure, SQL server 
 
 ## My GitHub Stats 📊
 
@@ -21,9 +21,9 @@ Welcome to my GitHub profile! 🚀
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabaloho&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect With Me 🌐
-- [LinkedIn](#)
+- [LinkedIn](https://be.linkedin.com/in/gabriel-aloho)
 - [Twitter](#)
-- [Email](mailto:#)
+- [Email](mailto:alohogabriel@gmail.com)
 
 ---
 
