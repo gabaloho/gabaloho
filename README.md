@@ -2,33 +2,32 @@
 
 Welcome to my GitHub profile! 🚀
 
-I'm passionate about **Software Development, Information Security, and Digital Forensics**. Currently, I work at Herbavita and am based in Belgium. I enjoy building robust software solutions and exploring the intersection of security and technology.
+I'm a dedicated **Fullstack Software Developer** with an MSc in **Information Security and Digital Forensics** from the University of East London, currently working at Herbavita in Belgium. I love building robust, scalable software, diving deep into security best practices, and uncovering new technologies.
 
-- 💻 I actively contribute to a range of public repositories (17+), showcasing projects in development, security, and digital forensics.
-- 🌱 I continuously learn and will start to share knowledge through my [blog](https://gabrielaloho.com) soon.
-- 🤝 Let's connect! Feel free to reach out via [email](mailto:alohogabriel@gmail.com).
+- f4bb I actively contribute to a range of public repositories (17+), showcasing projects in development, security, and digital forensics.
+- f331 I continuously learn and will start to share knowledge through my [blog](https://gabrielaloho.com) soon.
+- f91d Let's connect! Feel free to reach out via [email](mailto:alohogabriel@gmail.com).
+(mailto:alohogabriel@gmail.com) or connect on [LinkedIn](https://be.linkedin.com/in/gabriel-aloho).
 
 ## About Me
 
-- 🌱 **Currently Wroking**: Fullstack software developer.
-- 💻 **Technologies I Love**: Coding, building projects, and solving problems.
-- 🎯 **Goal**: To contribute to open-source projects and collaborate with like-minded developers.
-- ⚡ **Fun Fact**: I believe every bug has a story to tell!
+- 🏢 **Current Role**: Fullstack Software Developer at Herbavita, Belgium
+- 🛠️ **Technologies**: Enjoy building, coding, and problem-solving.
+- 🚀 **Goals**: Eager to collaborate on open-source, security-focused, or innovative projects with passionate individuals.
+- ⚡ **Fun Fact**: Every bug tells a story—debugging is part detective work!
 
 ## Skills & Tools
-- **Languages**: C#, Python, Java,
-- **Frameworks**: Android, .NET Core, .NET Maui, Blazor, Maui Hybrid Blazor
-- **Tools**: Git, Docker, Kubernetes, EF core , Azure, SQL server 
+- **Languages**: C#, Python, Java
+- **Frameworks**: Android, .NET Core, .NET MAUI, Blazor, MAUI Hybrid Blazor
+- **Tools**: Git, Docker, Kubernetes, Entity Framework Core, Azure, SQL Server
 
 ## My GitHub Stats 📊
 
 ![Gabaloho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabaloho&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabaloho&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect With Me 🌐
 - [LinkedIn](https://be.linkedin.com/in/gabriel-aloho)
-- [Twitter](#)
 - [Email](mailto:alohogabriel@gmail.com)
 
 ---
