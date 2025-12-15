@@ -4,10 +4,9 @@ Welcome to my GitHub profile! 🚀
 
 I'm a dedicated **Fullstack Software Developer** with an MSc in **Information Security and Digital Forensics** from the University of East London, currently working at Herbavita in Belgium. I love building robust, scalable software, diving deep into security best practices, and uncovering new technologies.
 
-- f4bb I actively contribute to a range of public repositories (17+), showcasing projects in development, security, and digital forensics.
-- f331 I continuously learn and will start to share knowledge through my [blog](https://gabrielaloho.com) soon.
-- f91d Let's connect! Feel free to reach out via [email](mailto:alohogabriel@gmail.com).
-(mailto:alohogabriel@gmail.com) or connect on [LinkedIn](https://be.linkedin.com/in/gabriel-aloho).
+- 💻 I actively contribute to a range of public repositories (17+), showcasing projects in development, security, and digital forensics.
+- 🌱 I continuously learn and will start to share knowledge through my [blog](https://gabrielaloho.com) soon.
+- 🤝 Let's connect! Feel free to reach out via [email](mailto:alohogabriel@gmail.com) or connect on [LinkedIn](https://be.linkedin.com/in/gabriel-aloho).
 
 ## About Me
 
