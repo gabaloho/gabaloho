@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! 🚀
 
-I'm a dedicated **Fullstack Software Developer** with an MSc in **Information Security and Digital Forensics** from the University of East London, currently working at Herbavita in Belgium. I love building robust, scalable software, diving deep into security best practices, and uncovering new technologies.
+I'm a dedicated **Fullstack Software Developer** with an MSc in **Information Security and Digital Forensics** from the University of East London, currently working at Gue Cyber in Belgium. I love building robust, scalable software, diving deep into security best practices, and uncovering new technologies.
 
 - 💻 I actively contribute to a range of public repositories (17+), showcasing projects in development, security, and digital forensics.
 - 🌱 I continuously learn and will start to share knowledge through my [blog](https://gabrielaloho.com) soon.
